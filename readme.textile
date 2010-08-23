@@ -1,0 +1,12 @@
+h2. About
+
+Uses "OpenLigaDB":http://www.openligadb.de/Matches/WebserviceLivetest to estimate the next Bundesliga results, so that I don't have to think about it for the "Tolingo Tippkick League":http://www.kicktipp.de/tolingobl/.
+
+h2. Usage
+
+<pre>
+gem install bundler --pre
+bundle install
+
+ruby tippr.rb
+</pre>

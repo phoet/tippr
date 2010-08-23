@@ -1,0 +1,14 @@
+GEM
+  remote: http://gemcutter.org/
+  specs:
+    builder (2.1.2)
+    crack (0.1.8)
+    savon (0.7.9)
+      builder (>= 2.1.2)
+      crack (>= 0.1.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  savon (= 0.7.9)
